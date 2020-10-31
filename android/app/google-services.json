@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368307480174",
+    "firebase_url": "https://common-knowledge-2020.firebaseio.com",
+    "project_id": "common-knowledge-2020",
+    "storage_bucket": "common-knowledge-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368307480174:android:c238949983b66ab453287f",
+        "android_client_info": {
+          "package_name": "pro.ruslanandreev.common_knowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368307480174-ssu374ag5ptcnipro9pbmc84s2ol4jul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.ruslanandreev.common_knowledge",
+            "certificate_hash": "cbbe37b05148671f510eee8def5c7bb025e0901f"
+          }
+        },
+        {
+          "client_id": "368307480174-n0mmm5muij4mefovs59im4p83p528e9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UcSEPPVugrIHVHb_Hyx-R_sUNBvbxkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368307480174-n0mmm5muij4mefovs59im4p83p528e9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
